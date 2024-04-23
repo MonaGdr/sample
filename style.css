@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;  /* Sets a clean and readable font for the body */
+  margin: 20px;                  /* Adds some spacing around the webpage content */
+}
+
+h1 {
+  color: #007bff;                /* Sets the heading text color to a blue shade */
+  font-size: 2em;                /* Makes the heading text larger */
+  margin-bottom: 10px;            /* Adds some space below the heading */
+}
+
+p {
+  line-height: 1.5;               /* Adjusts line spacing for better readability */
+}
